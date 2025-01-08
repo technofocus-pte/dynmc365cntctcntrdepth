@@ -1,2 +1,2 @@
-# dynmc365cntctcntrdepth
-Implementing and adopting Dynamics 365 Contact Center
+# Technical deep dive Implementing and adopting Dynamics 365 Contact Center
+
