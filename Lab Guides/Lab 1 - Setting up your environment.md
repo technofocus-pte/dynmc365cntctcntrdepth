@@ -1,5 +1,7 @@
 # Setting up your environment
 
+Objective
+
 ## Task 1 - Enabling Customer Service Trial License 
 
 1.  Enter the user id and click on **Start your free trial**
