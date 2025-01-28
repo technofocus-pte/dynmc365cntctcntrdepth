@@ -1,4 +1,6 @@
-# Configure the inbox setting for agents
+# Lab 14 - Configure the inbox setting for agents
+
+**Objective** - In this Lab, you configure the inbox in Customer Service admin center by editing the agent experience profile to meet your preferred inbox settings.
 
 ## Task 1 - Exploring the inbox setting for agents
 
@@ -6,18 +8,20 @@ You can configure the inbox in Contact Center admin center or Customer
 Service admin center by editing the agent experience profile to meet
 your preferred inbox settings.
 
-1.  Open the admin center app.
+1.  On the Customer Service admin center app, under **Agent experience**, select **Workspaces**.
 
-2.  In **Agent experience**, select **Workspaces**.
+3.  In **Agent experience profiles** section, select **Manage**.
 
-3.  In **Agent experience profiles**, select **Manage**.
+4. Select the **Contoso Agent** profile.
 
-4.  Select the profile for which you want to configure the inbox.
+5. Scroll down and select **Edit** under **Inbox**.
 
-5.  In **Inbox**, select the **Settings** icon, and then turn on
-    the **Inbox** toggle.
+    ![A screenshot of a computer Description automatically
+generated](./media/media14/image0.png)
 
-![A screenshot of a computer Description automatically
+5.  On the **Inbox Settings** page, turn on the **Enable Inbox** toggle.
+
+    ![A screenshot of a computer Description automatically
 generated](./media/media14/image1.png)
 
 6.  Select a view and **Edit** to modify an existing view or create a
@@ -26,23 +30,17 @@ generated](./media/media14/image1.png)
     - **Name:** Specify a name that shows in the inbox. Alphanumeric
       values are valid names.
 
-    &nbsp;
-
     - **Record Type:** Select the record types for which the settings
       need to be applied. You can select more than one record type.
-
-    &nbsp;
 
     - **Agent Visibility**: Select one of the following options to show
       or hide the view to agents:
 
       - **Show**
 
-      &nbsp;
-
       - **Hide**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media14/image2.png)
 
 ## Task 2 - Configure custom views for the inbox
@@ -52,8 +50,7 @@ their cases, conversations, emails, and voicemails all in a single view.
 
 To configure multiple views for the inbox, complete the following steps.
 
-1.  Go to the agent experience profile for which you want to configure a
-    custom view.
+1.  Go to the **Contoso Agent** Agent experience profile.
 
 2.  On the **Inbox** card, select **Edit**. The **Inbox** page is
     displayed.
@@ -63,17 +60,13 @@ To configure multiple views for the inbox, complete the following steps.
 
 4.  On the **Add a new view** page, enter the following details:
 
-    - **Name**: Enter – **Multiple View**
-
-    &nbsp;
+    - **Name**: Enter – `Multiple View`
 
     - **Agent visibility**: Select **Show**
 
-    &nbsp;
-
     - **Record type**: Select **Email**
 
-![](./media/media14/image3.png)
+    ![](./media/media14/image3.png)
 
 5.  For each record type, choose one of the following settings. The
     settings are different for each record type. Select **Simple** and
@@ -83,13 +76,15 @@ To configure multiple views for the inbox, complete the following steps.
 
     - Emails Assigned to me
 
-![](./media/media14/image4.png)
+    ![](./media/media14/image4.png)
 
-6.  Select **Save and Close**
+6.  Select **Save and close**.
 
-![](./media/media14/image5.png)
+    ![](./media/media14/image5.png)
 
-7.  Select Save and Close again
+7.  Select **Save and close** again.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media14/image6.png)
+
+**Summary** - You configured the inbox in Customer Service admin center by editing the agent experience profile to meet your preferred inbox settings.

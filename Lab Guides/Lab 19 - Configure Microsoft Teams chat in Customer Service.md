@@ -1,117 +1,96 @@
-# Configure Microsoft Teams chat in Customer Service
+# Lab 19 - Configure Microsoft Teams chat in Customer Service
 
-## Task 1 – Install a template-based app in Power Apps.
+**Objective** - In this lab, you will enable Microsoft Teams chats inside Dynamics 365 and Enhanced Microsoft Teams Integration. You will also add a record type to link chats to Dynamics 365 records.
 
-1.  Login to Power Apps Portal - <https://make.powerapps.com/> . Login
-    with the credentials provided to execute the lab
+## Task 1: Access the Teams settings
+1.	In the Customer Service admin center, go to **Agent experience** and select **Collaboration**.
 
-2.  Select the Customer Service Trial Environment on the top right
-    corner of the home page.
+2.	In **Embedded chat using Teams**, select **Manage**.
 
-![A screenshot of a computer Description automatically
-generated](./media/media19/image1.png)
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image1.1.png)
+ 
+3.	On the **Microsoft Teams collaboration and chat** page, turn on the toggle for **Turn on Microsoft Teams chats inside Dynamics 365**.
+  
+4.	**Save** the changes
 
-3.  Select **Start with the Template**
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image2.1.1.png)
+ 
+5.	Next, set the toggle for **Turn on the linking of Dynamics 365 records to Microsoft Teams channels** to **Yes**. This setting requires tenant admin permission.
+  
+6.	Select **Save**.
 
-![A screenshot of a computer Description automatically
-generated](./media/media19/image2.png)
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image3.1.png)
+ 
+7.	Next, set the toggle for **Turn on Enhanced Microsoft Teams Integration** to **Yes**. This setting requires the tenant admin permission.
 
-4.  For this lab, select **Onboarding buddy** template
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image4.1.png)
+ 
+8.	**Accept** the Consent.
 
-![](./media/media19/image3.png)
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image5.1.png)
+ 
+9.	Select **Save**.
 
-5.  Select **Get it Now** from the AppSource site.
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image6.1.png)
 
-![A screenshot of a computer Description automatically
-generated](./media/media19/image4.png)
+10. Next, set the toggle for **Turn on Confidential Labels** to **Yes**. This setting requires the tenant admin permission.
 
-6.  Sign in with your credentials provided to you to execute the lab.
+12. **Accept** the Consent.
 
-![A screenshot of a computer Description automatically
-generated](./media/media19/image5.png)
+13. Select **Save**.
 
-7.  Select **Get it Now**
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image19.15.jpg)
+ 
+## Task 2: Configure the ability to connect chats to Dynamics 365 records
+1.	In the Customer Service admin center or Contact Center admin center, go to **Agent experience**, select **Collaboration**.
+2.	In **Embedded chat using Teams**, select **Manage**.
+3.	Under **Connect chats to Dynamics 365 records**, select the record type you want to configure.
+4.	Select **Save**.
 
-![A screenshot of a computer Description automatically
-generated](./media/media19/image6.png)
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image7.1.png)
+ 
+## Task 3: To add a record type to link chats to Dynamics 365 records
+1.	Under **Connect chats to Dynamics 365 records**, select **Add record types**.
 
-8.  You will be navigated to the Power Platform Admin Center site
-    install the app. Select the environment by agreeing to the terms and
-    select **Install**.
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image8.1.png)
+ 
+2.	On the **Allow chats to be connected to this record type** page, in **Choose record type**, select the name of the record type you want to use.
+3.	Select **Save**.
 
-![](./media/media19/image7.png)
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image9.1.png)
+ 
+## Task 4: Assign permissions to disconnect chats for specific user 
+1.	In the Customer Service admin center or Contact Center admin center, go to **Agent experience**, select **Collaboration**.
+2.	In **Embedded chat using Teams**, select **Manage**.
+3.	Under **Connect chats with Dynamics 365 records**, select the record type you want to configure, for example, Case.
 
-![A screenshot of a computer Description automatically
-generated](./media/media19/image8.png)
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image10.1.png)
+ 
+4.	On the **Case settings** pane, in the **Disconnecting chats**, toggle on or off Record owner can disconnect chats and/or Chat connector can disconnect chat, depending on your preferences.
+5.	Select **Save**.
 
-9.  The app installation will approximately take 10-15 minutes. You need
-    to wait until the installation is complete. You can refresh the page
-    to check the latest status.
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image11.1.png)
+ 
+## Task 5: Configure the ability for users to join chats
+1.	In the Customer Service admin center or Contact Center admin center, go to **Agent experience**, select **Collaboration**.
+2.	In **Embedded chat using Teams**, select **Manage**.
+3.	On the **Microsoft Teams collaboration and chat** page, in **Connect chats to Dynamics 365 records**, select the specific record type (for example, Case), and then in the settings pane, toggle **Join chat** on or off.
 
-![A screenshot of a computer Description automatically
-generated](./media/media19/image9.png)
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image12.1.png)
+ 
+4.	Select **Save**.
 
-## Task 2 - Add the Teams collaboration and chat settings page to the sitemap of your app
-
-1.  Navigate back to Home page of Power Apps home page.
-
-2.  Select the environment, and then select **Apps**.
-
-3.  Select your custom app – Onboarding Buddy, and then select **Edit**.
-
-4.  Select **three horizontal dots (…) \> Switch to Classic**
-
-![A screenshot of a computer Description automatically
-generated](./media/media19/image10.png)
-
-5.  In the **App Designer**, edit the **Sitemap**. Select **Add \>
-    Subarea**
-
-![A screenshot of a computer Description automatically
-generated](./media/media19/image11.png)
-
-6.  To add the Teams **Chat and collaborate** settings page, in the
-    subarea component, and then for the **Type**, select **URL**.
-
-7.  Copy the following value and paste it into URL field:  
-    /main.aspx?pagetype=control&controlName=MscrmControls.TeamsCollaborationAdmin.TeamsCollaborationAdmin
-
-![A screenshot of a computer Description automatically
-generated](./media/media19/image12.png)
-
-8.  Save and publish the changes.
-
-## Task 3 - Access the Teams settings
-
-1.  In the site map of Customer Service admin app, in **Agent
-    experience**, select **Collaboration**.
-
-2.  In **Embedded chat using Teams**, select **Manage**.
-
-3.  On the **Microsoft Teams collaboration and chat** page, turn on the
-    toggle for **Turn on Microsoft Teams chats inside Dynamics 365**.
-
-4.  Select the option - **Turn on for all Dynamics 365 apps** 
-
-&nbsp;
-
-1.  **Save** the changes.
-
-> ![](./media/media19/image13.png)
-
-## Task 4 – Setup Join a Teams call in agents
-
-By default, the Join a Teams call feature is turned on out of the box in
-Customer Service workspace for agent profiles that have Omnichannel for
-Customer Service enabled.
-
-1.  In Customer Service admin center or Contact Center admin center, go
-    to **Agent experience** \> **Collaboration**.
-
-2.  In **Join a Teams call**, select **Manage**.
-
-3.  On the **Join a Teams call** page, turn on the setting for **Join a
-    Teams call**.
-
-![A white background with black text Description automatically
-generated](./media/media19/image14.png)
+**Summary** - You have enabled Microsoft Teams chats inside Dynamics 365 and Enhanced Microsoft Teams Integration. You have added a record type to link chats to Dynamics 365 records.

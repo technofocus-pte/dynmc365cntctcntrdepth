@@ -1,4 +1,6 @@
-# Create and use agent experience profiles
+# Lab 9 - Create and use agent experience profiles
+
+**Objective** - You will create an agent experience profile and configure parameters to the profile in the Customer Admin service center
 
 ## Task 1 - Create agent experience profiles in Customer Service admin center
 
@@ -7,37 +9,42 @@ agents and supervisors. Profiles help access the features that your
 agents and supervisors can use in their daily tasks to resolve customer
 issues.
 
-1.  Go to **Agent experience profiles** in **Agent
+1.  Open a new tab in the browser. Sign in to the Power Platform admin
+    center - https://admin.powerplatform.microsoft.com/ with the
+    credentials provided to execute the lab in the home tab. Select **> Environments>
+    CustomerService Trial environment> Environment URL.**
+
+2.  You will be navigated to **Customer Service workspace**. Click on **App selector** to display the list of apps.
+   
+4.  Select **Customer Service Admin center** from the list of Apps.
+
+3.  Go to **Agent experience profiles** in **Agent
     experience** \> **Workspaces**.
 
-> ![A screenshot of a phone Description automatically
-> generated](./media/media9/image1.png)
+    ![A screenshot of a phone Description automatically
+generated](./media/media9/image1.png)
 
 2.  Select **New**
 
-![A screenshot of a computer Description automatically
+  ![A screenshot of a computer Description automatically
 generated](./media/media9/image2.png)
 
 3.  Enter the following details on the **Create a new agent experience
     profile** dialog.
 
-    - **Name:**  Contoso Agent
+    - **Name:**  `Contoso Agent`
 
-    &nbsp;
+    - **Unique name:** `msdyn_custom_chatagent`
 
-    - **Unique name:** msdyn_custom_chatagent
-
-    &nbsp;
-
-    - **Description:** Contoso Agent
+    - **Description:** `Contoso Agent`
 
     - Select **Create**.
 
-![](./media/media9/image3.png)
+  ![](./media/media9/image3.png)
 
-1.  An agent experience profile is created.
+4.  An agent experience profile is created.
 
-![A screenshot of a computer Description automatically
+  ![A screenshot of a computer Description automatically
 generated](./media/media9/image4.png)
 
 ## Task 2 - Assign users, templates, configure productivity pane, channels
@@ -46,43 +53,75 @@ For the profile that you created, you can add users and configure option
 such as specific session templates, conversation channels, and
 productivity tools.
 
-Go to **Agent experience profiles** and select the required agent
-experience profile. You can perform the following actions:
 
-- In the **Users** section, specify the agents this profile must be
-  associated with. Select **Add Users.** Select the admin user assigned
-  to you to execute the labs. Select **Add.**
+1. Open a new tab in the browser. Sign in to the Power Platform admin
+    center - https://admin.powerplatform.microsoft.com/ with the
+    credentials provided to execute the lab in the home tab.
+ 
+2.  In the left side panel, select **Environments**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
+generated](./media/media2/image10.png)
+
+3.  Select your **Customer Service Trial** environment.
+4.  Select **Settings** from the upper menu.
+
+5. Select **Users + permissions > Users**.
+
+6. From the upper menu, select **Add user**.
+
+7. In the Add user pane, search for and select **Megan Bowen**. Select **Add**.
+
+    ![A screenshot of a computer Description automatically
+generated](./media/media9/image15.jpg)
+   
+8. In the Manage security roles page, select the **System administrator** role. Select **Save**.
+
+    ![A screenshot of a computer Description automatically
+generated](./media/media9/image16.jpg)
+   
+9. Switch back to Customer Service admin center tab. Go to **Agent experience profiles** in **Agent experience > Workspaces**.
+10. Select **Contoso Agent** profile.
+11. In the **Users** section, specify the agents this profile must be associated with. Select **Add Users.**
+
+    ![A screenshot of a computer Description automatically
 generated](./media/media9/image5.png)
 
-![A screenshot of a computer Description automatically
+12. Select the user **Megan Bowen**. Select **Add.**
+
+  ![A screenshot of a computer Description automatically
 generated](./media/media9/image6.png)
 
-![](./media/media9/image7.png)
+  ![](./media/media9/image7.png)
 
-- Select **Add entity session template** to link a session template to
-  the profile. On the **Entity session templates** pane, Select **Add.**
-  Select **Case** under **Entity.** Select Session Template as **Case
-  Entity Session – Default Template.** Select **Add.** Select **Save and
-  Close.**
+13. Select **Add entity session template** to link a session template to
+  the profile.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media9/image8.png)
 
-![](./media/media9/image9.png)
+14. On the **Entity session templates** pane, Select **Add.**
 
-![](./media/media9/image10.png)
+    ![A screenshot of a computer Description automatically
+generated](./media/media9/image7.5.png)
 
-![A screenshot of a computer Description automatically
+15. Select **Case** under **Entity.** Select **Case Entity Session – Default Template** as **Session Template**.
+
+    ![](./media/media9/image9.png)
+        
+16. Select **Add.** Select **Save and Close.**
+
+  ![](./media/media9/image10.png)
+
+  ![A screenshot of a computer Description automatically
 generated](./media/media9/image11.png)
 
-- In the **Productivity pane**, select **Turn on** 
+17. In the **Productivity pane**, select **Turn on** 
 
-![A screenshot of a computer Description automatically
+  ![A screenshot of a computer Description automatically
 generated](./media/media9/image12.png)
 
-- To enable the productivity tools that the agents can access when they
+18. To enable the productivity tools that the agents can access when they
   work on their assigned tasks. The following productivity tool options
   are available:
 
@@ -98,10 +137,13 @@ generated](./media/media9/image12.png)
 
   - Copilot help pane
 
-Turn on the toggle against each option in the **Productivity Pane** to
+19. Turn on the toggle against the option in the **Productivity Pane** as per the screnshot to
 enable it for the agent. Select **Save and Close**
 
-![](./media/media9/image13.png)
+  ![](./media/media9/image13.png)
 
-![A screenshot of a computer Description automatically
+  ![A screenshot of a computer Description automatically
 generated](./media/media9/image14.png)
+
+
+**Summary** - You created an agent experience profile and configure parameters to the profile in the Customer Admin service center.
