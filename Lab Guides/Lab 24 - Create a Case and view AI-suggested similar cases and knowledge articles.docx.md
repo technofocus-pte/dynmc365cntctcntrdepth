@@ -1,4 +1,4 @@
-# Lab 9 – Create a Case and view AI-suggested similar cases and knowledge articles
+# Lab 24 – Create a Case and view AI-suggested similar cases and knowledge articles
 
 **Objective** - In this lab, you will create Cases, associate cases as parent and child, convert a case to a Knowledge article and view AI-suggested similar cases and knowledge articles.
 
