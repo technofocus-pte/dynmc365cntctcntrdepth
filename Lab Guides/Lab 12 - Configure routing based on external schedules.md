@@ -7,7 +7,7 @@
 To enable Workforce Management, complete the following steps:
 
 1. Navigate to your environment in Power Platform admin
-    center - https://admin.powerplatform.microsoft.com/ with the
+    center - !!https://admin.powerplatform.microsoft.com/!! with the
     credentials provided to execute the labs.
 
 2. On the command bar, select **Resources** \> **Dynamics 365 apps**.
