@@ -9,7 +9,7 @@ To set connection references:
 1.  Open a new tab and navigate
     to [make.powerapps.com](https://make.powerapps.com/).
 
-2.  Select **Customer Service Trial** environment on the top right corner of
+2.  Select the **Customer Service Trial** environment on the top right corner of
     the home page.
 
 3.  Select **More** from the left navigation and then select **Connections**.
@@ -198,7 +198,7 @@ generated](./media/media18/image15.png)
 generated](./media/media18/image16.png)
 
 9.  Select **Details** on the toolbar to open the **Topic
-    details** panel. Enter the name of the Topic as **Store hours**.
+    details** panel. Enter the name of the Topic as !!**Store hours**!!.
 
 10.  Select **Save**.
 
@@ -245,4 +245,4 @@ generated](./media/media18/image45.jpg)
 If your search doesn’t return any results, modify the search terms or
 filter conditions. You can also add a filter condition if required.
 
-**Summary** - You have created a Copilot bot, added Topics to it and then added the action to the Copilot Studio topic.
+**Summary** - You have created a Copilot Studio Agent, added Topics to it and then added the action to the Copilot Studio topic.
