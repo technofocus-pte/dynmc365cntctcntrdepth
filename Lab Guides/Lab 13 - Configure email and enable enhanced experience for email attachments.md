@@ -1,6 +1,6 @@
 # Lab 13 - Configure email and enable enhanced experience for email attachments
 
-**Objective** - In this Lab, you will enable Power Apps trial to enhance email experience. You will also configure email attachment size limitations and enable enhanced experience for email attachments.
+**Objective** - In this Lab, you will enable a Power Apps trial to enhance email experience. You will also configure email attachment size limitations and enable enhanced experience for email attachments.
 
 ## Task 1 - Enable Power Apps free trial
 
@@ -73,7 +73,7 @@ generated](./media/media12/image9.png)
 Enhanced email is the default setting, but you must enable email for
 users to access and use the features.
 
-1.  Open your **Customer Service Admin Center** App.
+1.  Open your **Copilot Service Admin Center** App.
 
 2.  In the app, go to **Settings** \> **Advanced Settings**.
 
@@ -161,7 +161,7 @@ You can enable the enhanced email attachment control for forms to
 provide a consistent email attachment experience to agents. Do the
 following steps:
 
-1.  In Power Apps - https://make.powerapps.com/, select the **Customer
+1.  In Power Apps - !!**https://make.powerapps.com/**!!, select the **Customer
     Service Trial** environment that contains your solution.
 
 2.  Select **Tables**.
