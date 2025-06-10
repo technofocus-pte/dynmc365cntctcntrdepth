@@ -1,8 +1,8 @@
 # Lab 9 - Create and use agent experience profiles
 
-**Objective** - You will create an agent experience profile and configure parameters to the profile in the Customer Admin service center
+**Objective** - You will create an agent experience profile and configure parameters to the profile in the Copilot Admin service center
 
-## Task 1 - Create agent experience profiles in Customer Service admin center
+## Task 1 - Create agent experience profiles in Copilot Service admin center
 
 By using agent profiles, you can create targeted app experiences for
 agents and supervisors. Profiles help access the features that your
@@ -14,22 +14,22 @@ issues.
     credentials provided to execute the lab in the home tab. Select **> Environments>
     CustomerService Trial environment> Environment URL.**
 
-2.  You will be navigated to **Customer Service workspace**. Click on **App selector** to display the list of apps.
+2.  You will be navigated to **Copilot Service workspace**. Click on **App selector** to display the list of apps.
    
-4.  Select **Customer Service Admin center** from the list of Apps.
+3.  Select **Copilot Service Admin center** from the list of Apps.
 
-3.  Go to **Agent experience profiles** in **Agent
+4.  Go to **experience profiles** in **Support
     experience** \> **Workspaces**.
 
     ![A screenshot of a phone Description automatically
 generated](./media/media9/image1.png)
 
-2.  Select **New**
+5.  Select **New**
 
   ![A screenshot of a computer Description automatically
 generated](./media/media9/image2.png)
 
-3.  Enter the following details on the **Create a new agent experience
+6.  Enter the following details on the **Create a new agent experience
     profile** dialog.
 
     - **Name:**  `Contoso Agent`
@@ -42,7 +42,7 @@ generated](./media/media9/image2.png)
 
   ![](./media/media9/image3.png)
 
-4.  An agent experience profile is created.
+7.  An agent experience profile is created.
 
   ![A screenshot of a computer Description automatically
 generated](./media/media9/image4.png)
@@ -63,7 +63,7 @@ productivity tools.
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image10.png)
 
-3.  Select your **Customer Service Trial** environment.
+3.  Select your **Copilot Service Trial** environment.
 4.  Select **Settings** from the upper menu.
 
 5. Select **Users + permissions > Users**.
@@ -80,8 +80,8 @@ generated](./media/media9/image15.jpg)
     ![A screenshot of a computer Description automatically
 generated](./media/media9/image16.jpg)
    
-9. Switch back to Customer Service admin center tab. Go to **Agent experience profiles** in **Agent experience > Workspaces**.
-10. Select **Contoso Agent** profile.
+9. Switch back to Copilot Service admin center tab. Go to **Experience profiles** in **Support experience > Workspaces**.
+10. Select the **Contoso Agent** profile.
 11. In the **Users** section, specify the agents this profile must be associated with. Select **Add Users.**
 
     ![A screenshot of a computer Description automatically
@@ -146,4 +146,4 @@ enable it for the agent. Select **Save and Close**
 generated](./media/media9/image14.png)
 
 
-**Summary** - You created an agent experience profile and configure parameters to the profile in the Customer Admin service center.
+**Summary** - You created an agent experience profile and configured parameters to the profile in the Copilot Admin service center.
