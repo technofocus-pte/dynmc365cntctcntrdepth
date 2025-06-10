@@ -9,7 +9,7 @@ case and resolve customer issues more efficiently. The case summary
 includes key information such as the case title, customer, subject,
 product, priority, case type, and description.
 
-1. In the Customer Service workspace, select the **Customer Service Agent Dashboard**.
+1. In the Copilot Service workspace, select the **Customer Service Agent Dashboard**.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media25/image4.png)
@@ -41,7 +41,7 @@ generated](./media/media25/image8.png)
 You can ask free-form questions just as you'd ask your colleague or
 supervisor who might know the answers.
 
-1.  In the **Copilot** pane, which is opened on right side of the
+1.  In the **Copilot** pane, which is opened on the right side of the
     screen, type ‘**What is Claudia Mazzanti issue**’ and select
     **Send** icon.
 
@@ -126,14 +126,14 @@ generated](./media/media25/image16.png)
 ![](./media/media25/image18.png)
 
 7.  You can now review the response. Make any necessary changes, and
-    then select **Copy to email** to copy the entire response to your
+    then select **Copy** to copy the entire response to your
     draft. Or select part of the response and use the right-click menu
     to copy and paste the selection.
 
 ![A screenshot of a message Description automatically
 generated](./media/media25/image19.png)
 
-8.  Response is now available in body part on left side.
+8.  The Response is now available in body part on left side.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media25/image20.png)
