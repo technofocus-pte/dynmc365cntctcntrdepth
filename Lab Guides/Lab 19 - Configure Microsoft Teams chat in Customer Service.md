@@ -3,7 +3,7 @@
 **Objective** - In this lab, you will enable Microsoft Teams chats inside Dynamics 365 and Enhanced Microsoft Teams Integration. You will also add a record type to link chats to Dynamics 365 records.
 
 ## Task 1: Access the Teams settings
-1.	In the Customer Service admin center, go to **Agent experience** and select **Collaboration**.
+1.	In the Copilot Service admin center, go to **Support experience** and select **Collaboration**.
 
 2.	In **Embedded chat using Teams**, select **Manage**.
 
@@ -49,7 +49,7 @@ generated](./media/media19/image6.1.png)
 generated](./media/media19/image19.15.jpg)
  
 ## Task 2: Configure the ability to connect chats to Dynamics 365 records
-1.	In the Customer Service admin center or Contact Center admin center, go to **Agent experience**, select **Collaboration**.
+1.	In the Copilot Service admin center or Contact Center admin center, go to **Support experience**, select **Collaboration**.
 2.	In **Embedded chat using Teams**, select **Manage**.
 3.	Under **Connect chats to Dynamics 365 records**, select the record type you want to configure.
 4.	Select **Save**.
@@ -70,7 +70,7 @@ generated](./media/media19/image8.1.png)
 generated](./media/media19/image9.1.png)
  
 ## Task 4: Assign permissions to disconnect chats for specific user 
-1.	In the Customer Service admin center or Contact Center admin center, go to **Agent experience**, select **Collaboration**.
+1.	In the Copilot Service admin center or Contact Center admin center, go to **Support experience**, select **Collaboration**.
 2.	In **Embedded chat using Teams**, select **Manage**.
 3.	Under **Connect chats with Dynamics 365 records**, select the record type you want to configure, for example, Case.
 
@@ -84,7 +84,7 @@ generated](./media/media19/image10.1.png)
 generated](./media/media19/image11.1.png)
  
 ## Task 5: Configure the ability for users to join chats
-1.	In the Customer Service admin center or Contact Center admin center, go to **Agent experience**, select **Collaboration**.
+1.	In the Copilot Service admin center or Contact Center admin center, go to **Support experience**, select **Collaboration**.
 2.	In **Embedded chat using Teams**, select **Manage**.
 3.	On the **Microsoft Teams collaboration and chat** page, in **Connect chats to Dynamics 365 records**, select the specific record type (for example, Case), and then in the settings pane, toggle **Join chat** on or off.
 
