@@ -2,7 +2,7 @@
 
 **Objective** - In this lab, you will configure AI suggestions for contacts in Microsoft Teams
 
-1.  In the site map of Customer Service admin center, go to **Agent experience** \> **Collaboration**.
+1.  In the site map of Copilot Service admin center, go to **Support experience** \> **Collaboration**.
 
     ![A screenshot of a phone Description automatically
 generated](./media/media21/image1.png)
