@@ -1,10 +1,10 @@
-# Lab 10 - Work with Session Templates and associate templates with workstreams
+# Lab 10 - Work with Session Templates and associate template with workstreams
 
 **Objective** - In this Lab, you will create session templates and associate scripts to this session templates
 
 ## Task 1 - Create a session template
 
-1.  In the site map of Customer Service admin center,
+1.  In the site map of Copilot Service admin center,
     select **Workspaces** in **Agent experience** group.
 
 2.  On the **Workspaces** page, select **Manage** for **Session
@@ -70,7 +70,7 @@ generated](./media/media10/image6.png)
 
 ## Task 3 - Associate or modify templates with workstreams
 
-1.  In the Customer Service Admin Center site map,
+1.  In the Copilot Service Admin Center site map,
     select **Workstreams**.
 
     ![A screenshot of a computer Description automatically
