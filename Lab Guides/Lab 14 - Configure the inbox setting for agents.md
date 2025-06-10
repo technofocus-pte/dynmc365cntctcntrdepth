@@ -87,4 +87,4 @@ To configure multiple views for the inbox, complete the following steps.
     ![A screenshot of a computer Description automatically
 generated](./media/media14/image6.png)
 
-**Summary** - You configured the inbox in Customer Service admin center by editing the agent experience profile to meet your preferred inbox settings.
+**Summary** - You configured the inbox in Copilot Service admin center by editing the agent experience profile to meet your preferred inbox settings.
