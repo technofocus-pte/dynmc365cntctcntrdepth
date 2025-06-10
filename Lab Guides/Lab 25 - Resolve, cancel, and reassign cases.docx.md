@@ -4,7 +4,7 @@
 
 ## Task 1 - Resolve a case
 
-1.  In the Customer Service workspace, select the **Site Map** and then
+1.  In the Copilot Service workspace, select the **Site Map** and then
     select **Cases**.
 
 ![A screenshot of a computer Description automatically
@@ -59,13 +59,13 @@ generated](./media/media25-new/image8.png)
 
 All case activities must be closed before you can cancel a case.
 
-1.  In the Customer Service workspace, select the **Site Map** and then
+1.  In the Copilot Service workspace, select the **Site Map** and then
     select **Cases**.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media25-new/image1.png)
 
-2.  In the list of **My Active Cases**, open the case you want to cancel,
+2.  In the list of **My Active Cases**, tick on the case you want to cancel,
     and then on the command bar, select **Cancel Case**.
 
 ![A screenshot of a computer Description automatically
@@ -92,7 +92,7 @@ generated](./media/media25-new/image11.png)
 
 ## Task 3 - Reassign a case
 
-1.  In the Customer Service workspace, select the **Site Map** and then
+1.  In the Copilot Service workspace, select the **Site Map** and then
     select **Cases**.
 
 ![A screenshot of a computer Description automatically
@@ -116,7 +116,7 @@ generated](./media/media25-new/image13.png)
 
 ## Task 4 - Merge cases from dashboard streams
 
-1.  In the Customer Service workspace, select the **Site Map** and then
+1.  In the Copilot Service workspace, select the **Site Map** and then
     select **Dashboards**.
 
 ![A screenshot of a computer menu Description automatically
@@ -154,7 +154,7 @@ generated](./media/media25-new/image19.png)
 
 ## Task 5 - Merge cases from a list of case records
 
-1.  In Customer Service workspace, select **Cases** in the site map.
+1.  In Copilot Service workspace, select **Cases** in the site map.
     Select the **My Active Cases** view on the **Customer Service Agent
     Dashboard**.
 
