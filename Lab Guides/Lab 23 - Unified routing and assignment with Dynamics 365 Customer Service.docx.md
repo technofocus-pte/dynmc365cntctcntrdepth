@@ -4,7 +4,7 @@
 
 ## Task 1 - Pick queue items
 
-1.  In the Customer Service workspace, select the **Site Map** and then
+1.  In the Copilot Service workspace, select the **Site Map** and then
     select **Queues**.
 
 ![A screenshot of a computer Description automatically
@@ -68,7 +68,7 @@ work items are routed through workstreams.
 
 ## Task 2 - Release an item or case that you’re working on
 
-1.  In the Customer Service workspace, select the **Site Map** and then
+1.  In the Copilot Service workspace, select the **Site Map** and then
     select **Queues**.
 
 ![A screenshot of a computer Description automatically
@@ -128,7 +128,7 @@ generated](./media/media23-new/image14.png)
 
 ## Task 4 - Assign to another user or team
 
-1.  In the Customer Service workspace, select the **Site Map** and then
+1.  In the Copilot Service workspace, select the **Site Map** and then
     select **Activities**.
 
 ![A screenshot of a computer Description automatically
@@ -151,7 +151,7 @@ generated](./media/media23-new/image17.png)
 
 ## Task 5 - Add to queue
 
-1.  In the Customer Service workspace, select the **Site Map** and then
+1.  In the Copilot Service workspace, select the **Site Map** and then
     select **Activities**.
 
 2.  Select the activity you want, and then select **Add to Queue**.
@@ -174,7 +174,7 @@ generated](./media/media23-new/image19.png)
 If you think another group in your team has expertise on the subject,
 you can move the case to a queue so that someone else can pick it up.
 
-1.  In the Customer Service workspace, select the **Site Map** and then
+1.  In the Copilot Service workspace, select the **Site Map** and then
     select **Cases**.
 
 ![A screenshot of a computer Description automatically
