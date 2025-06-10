@@ -147,7 +147,7 @@ After you create a bot user, you need to add the bot to the workstream
 so that agents who use the channel of this workstream can see the
 suggestions.
 
-1.  Switch back to Customer Service admin center, go
+1.  Switch back to Copilot Service admin center, go
     to **Workstreams** in **Customer support**.
 
     ![A screenshot of a phone Description automatically
@@ -178,8 +178,8 @@ You can add multiple bots to a workstream based on your requirements.
 
 ### Task 1 - Create agent scripts
 
-1.  On the **Customer Service admin center**,
-    select **Productivity** in **Agent experience**.
+1.  On the **Copilot Service admin center**,
+    select **Productivity** in **Support experience**.
 
     ![A screenshot of a phone Description automatically
 generated](./media/media11/image31.png)
@@ -274,4 +274,4 @@ generated](./media/media11/image41.png)
 The agent script is associated with the session template.
 
 
-**Summary** - We created a bot user and add that bot user to the workstream
+**Summary** - We created a bot user and added that bot user to the workstream
