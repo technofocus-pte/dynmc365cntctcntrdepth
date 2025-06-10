@@ -2,7 +2,7 @@
 
 **Objective** - In this Lab, you will configure a chat widget in Dynamics 365 Customer Service
 
-1.  Switch back to Customer Service admin center, select **Channels** in **Customer support**.
+1.  Switch back to Copilot Service admin center, select **Channels** in **Customer support**.
     The **Channels** page appears.
 
     ![A screenshot of a phone Description automatically
@@ -20,9 +20,9 @@ generated](./media/media16/image13.png)
 
 4.  On the **Channel details** page,
 
-    - Name – **Contoso Chat Widget**
+    - Name – !!**Contoso Chat Widget**!!
 
-    - Language – **English – United States**
+    - Language – !!**English – United States**!!
 
     - Select **Next.**
 
@@ -54,8 +54,8 @@ generated](./media/media16/image15.png)
     assigned to conversation** from the **Message trigger** dropdown
     list.
 
-9.  In the **Automated message** box, type the message – **Hi, how can I
-    help you?** to be displayed.
+9.  In the **Automated message** box, type the message – !!**Hi, how can I
+    help you?**!! to be displayed.
 
 10.  Select **Confirm**.
 
@@ -68,10 +68,10 @@ generated](./media/media16/image18.png)
 
 12.  Enter the details
 
-     -  **Survey question name:** ContosoConsent
+     -  **Survey question name:** !!ContosoConsent!!
 
-     - **Question text**: We collect demographic data. Please confirm
-      whether you agree to provide the basic information.
+     - **Question text**: !!We collect demographic data. Please confirm
+      whether you agree to provide the basic information.!!
 
      - **Answer type –** User consent
 
@@ -83,9 +83,9 @@ generated](./media/media16/image18.png)
 
 13.  Select **Add** again
 
-     - **Survey question name:** FirstName
+     - **Survey question name:** !!FirstName!!
 
-     - **Question text**: FirstName
+     - **Question text**: !!FirstName!!
 
      - **Answer type –** Single line
 
