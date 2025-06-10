@@ -49,7 +49,7 @@ generated](./media/media20/image6.png)
 generated](./media/media20/image8.png)
 
 11. Paste the below text under static value -
-    **webResources/msdyncrm\_/RichTextEditorControl/KnowledgeArticleRTEconfig.js**
+    !!**webResources/msdyncrm\_/RichTextEditorControl/KnowledgeArticleRTEconfig.js**!!
 
     ![](./media/media20/image9.png)
 
