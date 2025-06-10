@@ -6,7 +6,7 @@
 
 ### Task 1 - To enable collaboration with Microsoft Teams and chat
 
-1.  In the site map of Customer Service admin center, in **Agent experience**, select **Collaboration**.
+1.  In the site map of Copilot Service admin center, in **Support experience**, select **Collaboration**.
 
     ![A screenshot of a phone Description automatically generated](./media/media22/image1.png)
 
@@ -90,4 +90,4 @@ generated](./media/media22/image10.png)
 
     ![A screenshot of a computer Description automatically generated](./media/media22/image12.png)
 
-**Summary** - You have successfully configure rules-based suggestions for contacts in Microsoft Teams
+**Summary** - You have successfully configured rules-based suggestions for contacts in Microsoft Teams
