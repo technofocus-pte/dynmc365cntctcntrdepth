@@ -4,7 +4,7 @@
 
 ## Task 1 - Omnichannel historical analytics dashboard
 
-1.  On the **Customer Service workspace** select the Site Map and then select **Omnichannel historical analytic -Insights**.
+1.  On the **Copilot Service workspace** select the Site Map and then select **Omnichannel historical analytic**.
 
 ![](./media/media24/image4.png)
 
@@ -45,10 +45,10 @@ generated](./media/media24/image9.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media24/image10.png)
 
-## Task 2 - Customer Service historical analytics - Insights Dashboard
+## Task 2 - Customer Service historical analytics Dashboard
 
 1. Select the three horizontal lines and select **Customer Service
-historical analytics – insights**
+historical analytics**
 
 ![](./media/media24/image11.png)
 
