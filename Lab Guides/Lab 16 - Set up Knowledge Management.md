@@ -7,15 +7,15 @@
 ## Task 1 - Record Types section
 
 1.  Open a new tab in the browser. Sign in to the Power Platform admin
-    center - https://admin.powerplatform.microsoft.com/ with the
+    center - !!https://admin.powerplatform.microsoft.com/!! with the
     credentials provided to execute the lab in the home tab. Select **> Environments>
     CustomerService Trial environment> Environment URL.**
 
-2.  You will be navigated to **Customer Service workspace**. Click on **App selector** to display the list of apps.
+2.  You will be navigated to **Copilot Service workspace**. Click on **App selector** to display the list of apps.
    
-3.  Select **Customer Service Admin center** from the list of Apps.
-4.  In the site map of Customer Service admin center,
-    select **Knowledge** in **Agent experience**. The **Knowledge** page
+3.  Select **Copilot Service Admin center** from the list of Apps.
+4.  In the site map of Copilot Service admin center,
+    select **Knowledge** in **Support experience**. The **Knowledge** page
     appears.
 
     ![A screenshot of a phone Description automatically
@@ -103,7 +103,7 @@ generated](./media/media17/image6.png)
 
 ## Task 3 - Creating Categories 
 
-1. Go back and select K**nowledge**. In the **Categories** section,
+1. Go back and select **Knowledge**. In the **Categories** section,
 select **Manage**. The **Categories System Views** page appears. You can
 create and manage a logical structure of categories for your records.
 
@@ -111,9 +111,9 @@ create and manage a logical structure of categories for your records.
 
 3.  Enter the required information in the **General** section:
 
-    - **Title**: Contoso Demo Category
+    - **Title**: !!Contoso Demo Category!!
 
-    - **Description**: Contoso Demo Category
+    - **Description**: !!Contoso Demo Category!!
 
     - **Display Order**: 1
 
@@ -169,4 +169,4 @@ select **Manage**. The **Portals** page appears.
 generated](./media/media17/image14.png)
 
 
-**Summary** - You have successfully set up knowledge management. You also created and manage knowledge management.
+**Summary** - You have successfully set up knowledge management. You also configured knowledge management capabilities.
