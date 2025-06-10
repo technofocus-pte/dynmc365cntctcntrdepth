@@ -9,12 +9,12 @@
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image1.png)
 
-2.  Select **Customer Service admin center** from the **Apps** page.
+2.  Select **Copilot Service admin center** from the **Apps** page.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image2.png)
 
-3.  On the left navigation in Customer Service admin center,
+3.  On the left navigation in Copilot Service admin center,
     select **Case Settings**.
 
 4.  Select **Manage** for **Enhanced case experience**.
@@ -42,7 +42,7 @@ generated](./media/media24-new/image4.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image5.png)
 
-7.  Switch back to the **Customer Service admin center** tab. To enable
+7.  Switch back to the **Copilot Service admin center** tab. To enable
   the enhanced quick case form:
 
 8.  Switch the **Quick case form** toggle to **Yes**.
@@ -64,12 +64,12 @@ generated](./media/media24-new/image7.png)
 
 1.  Select the **App selector** from the top ribbon.
 
-2.  Select **Customer Service workspace** from the **Apps** page.
+2.  Select **Copilot Service workspace** from the **Apps** page.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image8.png)
 
-3.  In the Customer Service workspace, select the **Site Map** and then
+3.  In the Copilot Service workspace, select the **Site Map** and then
     select **Cases**.
 
 ![A screenshot of a computer Description automatically
@@ -151,11 +151,11 @@ generated](./media/media24-new/image17.png)
 2.  On the **New Case** pane that appears on the right side, enter the
     following information and then select **Save**.
 
-    - **Type** – Request
+    - **Type** – !!Request!!
 
-    - **Customer** – Trey Research
+    - **Customer** – !!Trey Research!!
 
-    - **Title** – Share a quotation for replacement
+    - **Title** – !!Share a quotation for replacement!!
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image18.png)
@@ -230,7 +230,7 @@ generated](./media/media24-new/image26.png)
 
 ## Task 6: View AI-suggested similar cases and knowledge articles
 
-1.  On Customer Service Workspace, select the **Home** tab and then
+1.  On Copilot Service Workspace, select the **Home** tab and then
     select **Customer Service Agent Dashboard**.
 
 ![A screenshot of a computer Description automatically
