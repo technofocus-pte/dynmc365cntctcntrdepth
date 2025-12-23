@@ -17,7 +17,7 @@ license using the Microsoft website and access the Copilot Service
 workspace.
 
 1.  Open the Edge browser in the VM and paste the link
-    !!https://www.microsoft.com/en-in/dynamics-365/free-trial!! for
+    +++https://www.microsoft.com/en-in/dynamics-365/free-trial+++ for
     enabling the Dynamics 365 Contact Center **Trial license.**
 
 2.  Scroll down and select **Dynamics 365 Contact Center**. Click on
