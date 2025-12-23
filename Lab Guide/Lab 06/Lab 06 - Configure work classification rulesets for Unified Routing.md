@@ -41,9 +41,9 @@ Research, helping prioritize high-value customer requests.
     **Logical rules** under **Rule type** and then enter the following
     details.
 
-    - **Name –** !!Contoso ruleset!!
+    - **Name –** +++Contoso ruleset+++
 
-    - **Description –** !!Contoso ruleset!!
+    - **Description –** +++Contoso ruleset+++
 
     - Click **Create**
 
@@ -58,7 +58,7 @@ Research, helping prioritize high-value customer requests.
 6.  On the **Create work classification rule** dialog, enter the
     following details in the **Conditions** area.
 
-    - **Rule Name** - !!Set service level!!
+    - **Rule Name** - +++Set service level+++
 
     - Select **+ Add** and then select **Add related entity**.
 
@@ -100,8 +100,8 @@ assigned to the right support team promptly.
   generated](./media/image10.png)
 
 3.  On the **Create route-to-queues ruleset** pane, in the **Name**
-    field enter!!**Based on Gold Level**!!. In the **Description** field
-    enter !!**Rule based on Gold level**!!.
+    field enter+++**Based on Gold Level**+++. In the **Description** field
+    enter +++**Rule based on Gold level**+++.
 
 4.  Select **Create**.
 
@@ -116,7 +116,7 @@ assigned to the right support team promptly.
 6.  On the **Create route to queue rule** dialog, enter the following
     details.
 
-    - **Name** – !!Based on Gold level!!
+    - **Name** – +++Based on Gold level+++
 
     - Select **+ Add** and then select **Add related entity**.
 

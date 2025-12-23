@@ -29,15 +29,15 @@ and title format.
 4.  Specify the following on the **New Session Templates** page on the
     **General** Tab
 
-    1.  **Name** – !!Contoso Session!!
+    1.  **Name** – +++Contoso Session+++
 
-    2.  **Unique Name** - !!msdyn_chat_custom!!
+    2.  **Unique Name** - +++msdyn_chat_custom+++
 
     3.  **Type** - Entity
 
     4.  **Entity** – Case
 
-    5.  **Title** – !!{CustomerName}!!
+    5.  **Title** – +++{CustomerName}+++
 
     6.  **Communication panel mode** – Hidden
 

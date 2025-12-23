@@ -38,7 +38,7 @@ ensure smooth handling of chat-based customer interactions.
 4.  Enter the following details:
 
     - **Name**: Enter an intuitive name -
-      !!Contoso chat workstream!!
+      +++Contoso chat workstream+++
 
     - **Type**: Select **Messaging**
 
@@ -121,11 +121,11 @@ operation hours and link it to the queue.
 
 4.  In the **Create a queue** dialog, enter the following details:
 
-    - **Name**: !!**Contoso queue for supervisors**!!
+    - **Name**: +++**Contoso queue for supervisors**+++
 
     - **Type**: Select **Messaging**
 
-    - **Queue Priority**: !!**1**!!
+    - **Queue Priority**: +++**1**+++
 
     - Select **Create**
 
@@ -165,8 +165,8 @@ operation hours and link it to the queue.
     ![A screenshot of a computer Description automatically
   generated](./media/image19.png)
 
-11. On the **New Operating Hour** page, enter !!**Contoso operation
-    hours**!! in the **Name** field and **Description** field.
+11. On the **New Operating Hour** page, enter +++**Contoso operation
+    hours**+++ in the **Name** field and **Description** field.
 
 12. Click **Save & Close** to navigate back to the **Contoso queue for
     supervisors** page.

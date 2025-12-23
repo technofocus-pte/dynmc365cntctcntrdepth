@@ -34,12 +34,12 @@ language capability.
 
 4.  Specify the following in the **New Characteristic** page.
 
-    **Name** - !!Spanish!!
+    **Name** - +++Spanish+++
 
     **Type** - Skill
 
-    **Description** - !!This record is used to define the skill level of
-    the Spanish language!!
+    **Description** - +++This record is used to define the skill level of
+    the Spanish language+++
 
 5.  Select **Save & Close** from top bar.
 
@@ -68,11 +68,11 @@ on their capabilities.
 
 4.  Specify the following in the **New Rating Model** page.
 
-    **Name** - !!Language rating model!!
+    **Name** - +++Language rating model+++
 
-    **Min Rating Value** - !!1!!
+    **Min Rating Value** - +++1+++
 
-    **Max Rating Value** - !!10!!
+    **Max Rating Value** - +++10+++
 
 5.  Select **Save**.
 
@@ -88,9 +88,9 @@ on their capabilities.
 
 8.  Specify the following.
 
-    **Name** - !!Language rating value!!
+    **Name** - +++Language rating value+++
 
-    **Value** - !!10!!
+    **Value** - +++10+++
 
 9.  Select **Save & Close** to save and add the rating value to the
     grid.
@@ -143,8 +143,8 @@ assigned skills.
 
     ![](./media/image15.png)
 
-7.  On the **New Bookable Resource** page, change the **Name** to !!Mark
-    Brown!!. Select **Save**.
+7.  On the **New Bookable Resource** page, change the **Name** to +++Mark
+    Brown+++. Select **Save**.
 
     ![](./media/image16.png)
 

@@ -18,7 +18,7 @@ Service Admin Center. This profile will define the settings and
 characteristics of agents who will use the Copilot system.
 
 1.  Open a new tab in the browser. Sign in to the Power Platform admin
-    center - !!https://admin.powerplatform.microsoft.com/!! with the
+    center - +++https://admin.powerplatform.microsoft.com/+++ with the
     credentials provided to execute the lab in the home tab. Select **\>
     Environments\> ContactCenter Trial environment\> Environment URL.**
 
@@ -45,11 +45,11 @@ characteristics of agents who will use the Copilot system.
 5.  Enter the following details on the **Create a new experience
     profile** dialog.
 
-    - **Name:**  !!Contoso Agent!!
+    - **Name:**  +++Contoso Agent+++
 
-    - **Unique name:** !!msdyn_custom_chatagent!!
+    - **Unique name:** +++msdyn_custom_chatagent+++
 
-    - **Description:** !!Contoso Agent!!
+    - **Description:** +++Contoso Agent+++
 
     - Select **Create**.
 
@@ -69,7 +69,7 @@ enable productivity tools. Assigning users helps ensure that the right
 agents have access to the right tools and permissions.
 
 1.  Open a new tab in the browser. Sign in to the Power Platform admin
-    center - !!https://admin.powerplatform.microsoft.com/!! with the
+    center - +++https://admin.powerplatform.microsoft.com/+++ with the
     credentials provided to execute the lab in the home tab.
 
 2.  In the left side panel, select **Environments**.

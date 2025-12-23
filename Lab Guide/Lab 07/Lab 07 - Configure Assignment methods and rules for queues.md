@@ -36,7 +36,7 @@ agents.
   generated](./media/image4.png)
 
 6.  In the **Create work assignment** dialog, enter
-    !!Contoso work assignment!! in the **Name** field and
+    +++Contoso work assignment+++ in the **Name** field and
     **Description** field and then select **Create**.
 
     ![A screenshot of a computer Description automatically
@@ -48,7 +48,7 @@ agents.
   generated](./media/image6.png)
 
 8.  On the **Create Prioritization Ruleset** dialog, enter
-    !!Contoso prioritization ruleset!! in the **Name** field and
+    +++Contoso prioritization ruleset+++ in the **Name** field and
     **Description** field.
 
 9.  Select **Create**.
@@ -63,7 +63,7 @@ agents.
   generated](./media/image8.png)
 
 11. On the **Create Prioritization Rule Dialog**, enter
-    !!Contoso prioritization rule!! in the **Name** field.
+    +++Contoso prioritization rule+++ in the **Name** field.
 
 12. Select **+ Add** and then select **Add related entity**.
 
@@ -96,7 +96,7 @@ agents.
   automatically generated](./media/image12.png)
 
 20. On the **Create Assignment Ruleset** dialog, enter
-    !!Contoso assignment ruleset!! in the **Name** field and
+    +++Contoso assignment ruleset+++ in the **Name** field and
     **Description** field.
 
 21. Click **Create**.
@@ -111,7 +111,7 @@ agents.
   generated](./media/image14.png)
 
 23. **On the Create Assignment rule** page, enter
-    !!Contoso assignment rule!! in the **Name** field.
+    +++Contoso assignment rule+++ in the **Name** field.
 
     ![](./media/image15.png)
 
