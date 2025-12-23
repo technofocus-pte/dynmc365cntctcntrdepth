@@ -8,7 +8,7 @@ leverage a custom configuration that can include knowledge article
 integration or specific formatting.
 
 1.  Open a tab in the browser, paste the Power Apps URL –
-    !!https://make.powerapps.com!!. Click on the Sign In button.
+    +++https://make.powerapps.com+++. Click on the Sign In button.
 
     ![](./media/image1.png)
 
@@ -47,7 +47,7 @@ integration or specific formatting.
     ![](./media/image8.png)
 
 10. Paste the below text under static value -
-    !!**webResources/msdyncrm\_/RichTextEditorControl/KnowledgeArticleRTEconfig.js**!!
+    +++**webResources/msdyncrm\_/RichTextEditorControl/KnowledgeArticleRTEconfig.js**+++
 
 11. Select **Done**, and then select **Save and Publish**.
 

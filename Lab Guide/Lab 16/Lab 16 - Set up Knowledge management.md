@@ -15,7 +15,7 @@ In this task, you will enable knowledge management for additional record
 types, such as **Account**, and configure automatic search behavior.
 
 1.  Open a new tab in the browser. Sign in to the Power Platform admin
-    center - !!**https://admin.powerplatform.microsoft.com/**!! with the
+    center - +++**https://admin.powerplatform.microsoft.com/**+++ with the
     credentials provided to execute the lab in the home tab. Select **\>
     Environments \> ContactCenter Trial environment \> Environment
     URL.**
@@ -136,11 +136,11 @@ and retrieval.
 
 4.  Enter the required information in the **General** section:
 
-    - **Title**: !!**Contoso Demo Category**!!
+    - **Title**: +++**Contoso Demo Category**+++
 
-    - **Description**: !!**Contoso Demo Category**!!
+    - **Description**: +++**Contoso Demo Category**+++
 
-    - **Display Order**: !!**1**!!
+    - **Display Order**: +++**1**+++
 
     - Select **Save & Close**
 
@@ -193,7 +193,7 @@ define how attachments are synchronized to the portal.
       URL/kb/{kbnum}. The placeholder, “{kbnum}”, is replaced by an
       actual knowledge article number.
 
-        **Enter Demo URL**: !! http://webserver.contoso.com/kb/{kbnum}!!
+        **Enter Demo URL**: +++ http://webserver.contoso.com/kb/{kbnum}+++
 
         In the **Sync knowledge article attachments to portal** section, set
     the **Sync attachments to the portal** toggle to **Yes**.

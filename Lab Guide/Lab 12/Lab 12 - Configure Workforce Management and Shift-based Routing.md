@@ -15,7 +15,7 @@ customer service experience by providing scheduling, forecasting, and
 workload management capabilities within the Copilot Service environment.
 
 1.  Navigate to your environment in Power Platform admin center -
-    !!**https://admin.powerplatform.microsoft.com/**!! with the
+    +++**https://admin.powerplatform.microsoft.com/**+++ with the
     credentials provided to execute the labs.
 
 2.  Navigate to Manage > Environment > ContactCenter service trial.

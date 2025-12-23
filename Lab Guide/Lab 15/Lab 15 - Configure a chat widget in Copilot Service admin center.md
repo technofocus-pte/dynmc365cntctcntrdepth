@@ -28,7 +28,7 @@ define visual and behavioral settings.
 
 4.  On the **Channel details** page,
 
-    - Name – !!**Contoso Chat Widget**!!
+    - Name – +++**Contoso Chat Widget**+++
 
     - Language – **English – United States**
 
@@ -71,8 +71,8 @@ define visual and behavioral settings.
     assigned to conversation** from the **Message trigger** dropdown
     list.
 
-11. In the **Automated message** box, type the message – !!**Hi, how can
-    I help you?**!! to be displayed.
+11. In the **Automated message** box, type the message – +++**Hi, how can
+    I help you?**+++ to be displayed.
 
 12. Select **Confirm**.
 
@@ -85,12 +85,12 @@ define visual and behavioral settings.
 
 14. Enter the details.
 
-    - **Survey question name:** !!ContosoConsent!!
+    - **Survey question name:** +++ContosoConsent+++
 
-    - **Question text**: !!We collect demographic data. Please confirm
-      whether you agree to provide the basic information.!!
+    - **Question text**: +++We collect demographic data. Please confirm
+      whether you agree to provide the basic information.+++
 
-    - **Answer type –** !!User consent!!
+    - **Answer type –** +++User consent+++
 
     - **Required -** Yes
 
@@ -101,9 +101,9 @@ define visual and behavioral settings.
 
 15. Select **Add** again.
 
-    - **Survey question name:** !!FirstName!!
+    - **Survey question name:** +++FirstName+++
 
-    - **Question text**: !!FirstName!!
+    - **Question text**: +++FirstName+++
 
     - **Answer type –** Single line.
 
@@ -116,9 +116,9 @@ define visual and behavioral settings.
 
 16. Select **Add** again.
 
-    - **Survey question name:** !!LastName!!
+    - **Survey question name:** +++LastName+++
 
-    - **Question text**: !!LastName!!
+    - **Question text**: +++LastName+++
 
     - **Answer type –** Single line.
 
@@ -131,9 +131,9 @@ define visual and behavioral settings.
 
 17. Select **Add** again.
 
-    - **Survey question name:** !!Age!!
+    - **Survey question name:** +++Age+++
 
-    - **Question text**: !!Enter your Age!!
+    - **Question text**: +++Enter your Age+++
 
     - **Answer type –** Single line.
 

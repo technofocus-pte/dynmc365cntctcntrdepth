@@ -15,7 +15,7 @@ your existing environment to start customizing and configuring email
 features.
 
 1.  Open a tab and paste the link of the Power Apps -
-    !!https://powerapps.microsoft.com/!! and then click on **Try for
+    +++https://powerapps.microsoft.com/+++ and then click on **Try for
     free** to start a free trial.
 
     ![](./media/image1.png)
@@ -159,7 +159,7 @@ for upload in email attachments.
 In this task, you will add an Attachment Control to the Email table in
 Power Apps, allowing users to manage attachments directly from the form.
 
-1.  In Power Apps - !!**https://make.powerapps.com/**!!, select the
+1.  In Power Apps - +++**https://make.powerapps.com/**+++, select the
     **ContactCenter Trial** environment that contains your solution.
     Click on the Table from the left-hand menu.
 

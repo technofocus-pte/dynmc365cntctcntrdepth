@@ -17,7 +17,7 @@ Microsoft Entra ID to enable secure authentication and connection with
 Copilot Service.
 
 1.  Open a new tab and open Microsoft Entra Admin center -
-    !!https://entra.microsoft.com/!!.
+    +++https://entra.microsoft.com/+++.
 
 2.  Log in with credentials, download the authentication app on the
     phone, and complete the authentication process.
@@ -29,7 +29,7 @@ Copilot Service.
 
     ![](./media/image2.png)
 
-4.  Enter the name of the app as !!Contoso App!! and click on
+4.  Enter the name of the app as +++Contoso App+++ and click on
     **Register**.
 
     ![](./media/image3.png)
@@ -45,7 +45,7 @@ In this task, you will create an application user in Power Platform and
 assign appropriate roles.
 
 1.  Open a new tab in the browser and launch the PowerPlatform admin
-    center - !!https://admin.powerplatform.com/!!.
+    center - +++https://admin.powerplatform.com/+++.
 
 2.  Select **Manage > Environments** on the left navigation pane.
 
@@ -77,7 +77,7 @@ assign appropriate roles.
 
     ![](./media/image10.png)
 
-8.  Enter !!Org!! in the business unit field and select your trial
+8.  Enter +++Org+++ in the business unit field and select your trial
     environment **Business unit**.
 
 9.  Select Edit on the **Security roles** field.
@@ -174,11 +174,11 @@ sessions.
 
 4.  On the **New Script** page, specify the following:
 
-    1.  Name – !!Chat session script!!
+    1.  Name – +++Chat session script+++
 
-    2.  Unique Name – !!Contoso_script!!
+    2.  Unique Name – +++Contoso_script+++
 
-    3.  Description - !!This agent script is used for chat sessions.!!
+    3.  Description - +++This agent script is used for chat sessions.+++
 
 5.  Select **Save**. The **Script steps** appear.
 
@@ -190,15 +190,15 @@ sessions.
 
 7.  Specify the following fields in the **New Script step** form.
 
-    1.  Name - !!Greet the customer!!
+    1.  Name - +++Greet the customer+++
 
-    2.  Unique Name - !!Greet_script!!
+    2.  Unique Name - +++Greet_script+++
 
-    3.  **Order** – !!1!!
+    3.  **Order** – +++1+++
 
     4.  **Action type** – Text
 
-    5.  **Text instructions** - !!Greet the customer with the welcome message!!
+    5.  **Text instructions** - +++Greet the customer with the welcome message+++
 
 8.  Select **Save and Close** to add, save, and close the quick-create
     form.

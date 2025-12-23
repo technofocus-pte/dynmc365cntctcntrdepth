@@ -83,7 +83,7 @@ records into logical views.
 
 4.  On the **Add a new view** page, enter the following details:
 
-    - **Name**: !!Multiple View!!
+    - **Name**: +++Multiple View+++
 
     - **Agent visibility**: Select **Show**
 

@@ -14,7 +14,7 @@ Apps** for **Microsoft Dataverse** and **Content Conversion**, then link
 them to your flows.
 
 1.  Open a new tab and navigate to Power Apps portal
-    !!https://make.powerapps.com/!!. Then sign in with the given admin
+    +++https://make.powerapps.com/+++. Then sign in with the given admin
     tenant and password.
 
     ![A screenshot of a computer AI-generated content may be incorrect.](./media/image1.png)
@@ -112,7 +112,7 @@ In this task, you will create a Copilot Agent in **Copilot Studio** and
 configure it to use the **Search Dynamics 365 Knowledge Article flow**.
 
 1.  Open a tab in the browser and go to the Copilot Studio home page -
-    !!https://copilotstudio.microsoft.com/!! . Login with the
+    +++https://copilotstudio.microsoft.com/+++ . Login with the
     credentials provided to execute the lab. Accept the free trial,
     select United States for country/region.
 
@@ -130,8 +130,8 @@ configure it to use the **Search Dynamics 365 Knowledge Article flow**.
 4.  In the descriptive field enter below given prompt and the click on
     the **Execute** button.
 
-    !!Create an agent name as Contoso Agent which use the Search Dynamic 365
-    Knowledge article flow.!!
+    +++Create an agent name as Contoso Agent which use the Search Dynamic 365
+    Knowledge article flow.+++
 
     ![A screenshot of a computer AI-generated content may be
     incorrect.](./media/image21.png)
@@ -161,13 +161,13 @@ user queries about store timings.
     ![A screenshot of a computer AI-generated content may be
     incorrect.](./media/image25.png)
 
-3.  In the top left corner, Enter the name of the Topic as !!**Store
-    hours**!!
+3.  In the top left corner, Enter the name of the Topic as +++**Store
+    hours**+++
 
     ![A screenshot of a computer AI-generated content may be incorrect.](./media/image26.png)
 
-4.  In the describe field of trigger node, enter !!Store hours, what
-    time do you open?, Are you open on Sunday!! in the field.
+4.  In the describe field of trigger node, enter +++Store hours, what
+    time do you open?, Are you open on Sunday+++ in the field.
 
     ![A screenshot of a computer AI-generated content may be incorrect.](./media/image27.png)
 
