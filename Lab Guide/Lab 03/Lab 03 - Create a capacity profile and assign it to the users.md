@@ -32,7 +32,7 @@ manage workload capacity effectively.
 4.  On the **Details** tab of the **Create capacity profile** dialog
     box, enter the following details:
 
-    - **Profile name**: Name for the capacity profile as !!`Demo``!!`
+    - **Profile name**: Name for the capacity profile as +++Demo+++
 
     - **Work item limit**: Number of units of the work type that you can
       assign to the agent. – Enter - 5
