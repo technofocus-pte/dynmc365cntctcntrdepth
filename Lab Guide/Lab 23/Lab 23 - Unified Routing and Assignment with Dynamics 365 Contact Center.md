@@ -162,7 +162,7 @@ workspace.
 3.  Enter the following details in the field and then click on the
     **Save and Close**.
 
-    1.  Subject - !!Setup Warranty Account!!
+    1.  Subject - +++Setup Warranty Account+++
 
     2.  Regarding – **A mineral build Up in Water Supply**
 

@@ -62,11 +62,11 @@ case work and capture customer problems.
 8.  Enter the following information on the **Basic Detail** tab and then
     select **Save and Close**.
 
-    - **Case Title** – !!Minerals level is not maintained!!
+    - **Case Title** – +++Minerals level is not maintained+++
 
-    - **Customer** – !!Claudia Mazzanti!!
+    - **Customer** – +++Claudia Mazzanti+++
 
-    - **Subject** – !!Water supply!!
+    - **Subject** – +++Water supply+++
 
     - **Case Type** - Problem
 
@@ -97,11 +97,11 @@ main case for better case resolution management.
 2.  On the **Quick Create: Case** pane that appears on the right side,
     enter the following information and then select **Save and Close**.
 
-    - **Case Type** – !!Request!!
+    - **Case Type** – +++Request+++
 
-    - **Customer** – !!Claudia Mazzanti!!
+    - **Customer** – +++Claudia Mazzanti+++
 
-    - **Case Title** – !!Share a quotation for replacement!!
+    - **Case Title** – +++Share a quotation for replacement+++
 
       ![](./media/image10.png)
 

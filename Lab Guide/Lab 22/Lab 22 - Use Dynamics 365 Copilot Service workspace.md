@@ -16,7 +16,7 @@ use filter and sorting options to organize items efficiently.
 
 1.  To navigate to your **Copilot Service workspace**, go to the **Power
     Platform admin center** using the given
-    link !!https://admin.powerplatform.microsoft.com/!!.
+    link +++https://admin.powerplatform.microsoft.com/+++.
 
 2.  Select the **Environments** tab and then select **Contact Center
     Trial** environment.

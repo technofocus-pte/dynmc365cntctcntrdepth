@@ -17,7 +17,7 @@ In this task, you create a solution in the Power Apps portal and add a
 This allows the setting to be managed centrally and applied across apps.
 
 1.  Open a new tab in the browser, navigate to the Power Apps -
-    !!https://make.preview.powerapps.com/!!, select the
+    +++https://make.preview.powerapps.com/+++, select the
     **ContactCenter** **Trial** environment.
 
     ![](./media/image1.png)
