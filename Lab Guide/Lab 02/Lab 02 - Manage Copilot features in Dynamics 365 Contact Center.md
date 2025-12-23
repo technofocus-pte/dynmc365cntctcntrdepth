@@ -17,7 +17,7 @@ Generative AI features, review Bing Search options, and ensure the
 Copilot service can use the best data sources for intelligent responses.
 
 1.  Open a new tab in the browser. Sign in to the Power Platform admin
-    center - !!https://admin.powerplatform.microsoft.com/!! With the
+    center - +++https://admin.powerplatform.microsoft.com/+++ With the
     credentials provided to execute the lab in the home tab.
 
 2.  In the left side panel, select the **Manage** option and then
