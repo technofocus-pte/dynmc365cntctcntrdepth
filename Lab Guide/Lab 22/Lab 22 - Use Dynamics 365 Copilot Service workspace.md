@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 22 - Use Dynamics 365 Copilot Service workspace
+  description: In this lab, participants successfully navigated the Copilot Service workspace, managed inbox items using filters, created and updated cases, tracked activities in timelines, and set their presence status. By performing these tasks, service agents gain better control over customer interactions, maintain organized records, and enhance productivity within the Power Platform environment.
+  duration: 66 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+---
+
 # Lab 22 - Use Dynamics 365 Copilot Service workspace
 
 **Introduction:**
