@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 10 - Work with session templates and associate templates with workstreams
+  description: In this lab, you will learn how to create and configure a Session Template in the Copilot Service admin center. Session templates define how customer cases or conversations are displayed to agents within a workspace. You will create a session template, associate application tabs, and configure session settings in a workstream.
+  duration: 64 minutes
+  level: 200
+  islab: true
+---
+
 # Lab 10 - Work with session templates and associate templates with workstreams
 
 **Introduction:**
