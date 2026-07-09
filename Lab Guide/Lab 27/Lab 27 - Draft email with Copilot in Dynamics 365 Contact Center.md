@@ -1,3 +1,15 @@
+---
+lab:
+  title: Lab 27 – Draft email with Copilot in Dynamics 365 Contact Center
+  description: In this lab, you will learn how to use Microsoft Copilot in the Copilot Service workspace to assist with drafting customer emails. Copilot helps service agents communicate effectively by suggesting responses, offering tone options, and generating empathetic or informative messages based on case context. This capability supports faster and more consistent customer engagement.
+  duration: 32 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+    - Microsoft Copilot
+---
+
 # Lab 27 – Draft email with Copilot in Dynamics 365 Contact Center
 
 ### Introduction
