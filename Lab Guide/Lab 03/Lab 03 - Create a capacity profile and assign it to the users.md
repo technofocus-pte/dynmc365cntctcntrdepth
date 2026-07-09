@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 3 - Create a capacity profile and assign it to the users
+  description: In this task, you will create a new capacity profile, define work limits and reset frequency, and assign the profile to the admin user to manage workload capacity effectively.
+  duration: 10 minutes
+  level: 100
+  islab: true
+---
+
 # Lab 3 - Create a capacity profile and assign it to the users
 
 **Duration:** 10 mins
