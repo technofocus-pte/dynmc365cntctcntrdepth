@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 25 - Resolve, cancel, reassign and merge Cases
+  description: In this lab, participants successfully resolved, canceled, reassigned, and merged cases within the Copilot Service workspace. By performing these tasks, agents gain a clear understanding of case lifecycle management, ensuring customer issues are accurately tracked, efficiently resolved, and properly consolidated. These capabilities help maintain organized case records and improve overall customer service efficiency within Power Platform.
+  duration: 70 minutes
+  level: 100
+  islab: true
+---
+
 # Lab 25 - Resolve, cancel, reassign and merge Cases
 
 **Introduction**
