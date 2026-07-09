@@ -1,3 +1,15 @@
+---
+lab:
+  title: Lab 20 - Configure AI suggestions for contacts in Microsoft Teams
+  description: In this lab, you will configure AI-based suggested contacts in Microsoft Teams chat within Copilot Service. This feature helps agents by providing intelligent suggestions for relevant contacts when handling active cases or conversations, improving efficiency and collaboration across Dynamics 365 and Teams.
+  duration: 28 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Dynamics 365
+    - Microsoft Teams
+---
+
 # Lab 20 - Configure AI suggestions for contacts in Microsoft Teams
 
 ### Introduction
