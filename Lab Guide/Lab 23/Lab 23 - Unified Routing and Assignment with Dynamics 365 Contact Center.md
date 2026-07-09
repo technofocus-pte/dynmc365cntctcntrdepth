@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 23 - Unified Routing and Assignment with Dynamics 365 Contact Center
+  description: In this lab, participants successfully managed queues and activities within the Copilot Service workspace. They learned how to pick, release, and route queue items; create and assign activities; and add items or cases to queues. These steps ensure efficient workload management, improved collaboration among agents, and streamlined case routing within the Power Platform environment.
+  duration: 30 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+---
+
 # Lab 23 - Unified Routing and Assignment with Dynamics 365 Contact Center
 
 **Introduction**
