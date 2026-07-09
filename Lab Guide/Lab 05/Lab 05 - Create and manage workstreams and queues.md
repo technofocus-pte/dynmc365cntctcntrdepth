@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 5 - Create and manage workstreams and queues
+  description: In this lab, you will learn how to create, copy, and manage workstreams and queues in the Copilot Service admin center. Workstreams define how incoming customer requests are routed and handled, while queues determine which agents or teams manage those requests. You will also configure operating hours for queues and manage user assignments to optimize support operations.
+  duration: 20 minutes
+  level: 100
+  islab: true
+---
+
 # Lab 5 - Create and manage workstreams and queues
 
 **Duration:** 20 mins
