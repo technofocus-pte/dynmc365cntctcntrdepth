@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 15 - Configure a chat widget in Copilot Service admin center
+  description: In this task, you will create a new chat channel named Contoso Chat Widget in the Copilot Service Admin Center. You will specify the language, associate the chat channel with an existing workstream, and define visual and behavioral settings.
+  duration: 50 minutes
+  level: 200
+  islab: true
+---
+
 # Lab 15 - Configure a chat widget in Copilot Service admin center 
 
 ### Introduction
