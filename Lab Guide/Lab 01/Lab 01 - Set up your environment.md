@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 1 - Set up your environment
+  description: In this lab, you will learn how to activate the Dynamics 365 Contact Center trial license and explore the Copilot Service workspace. You will also navigate through the Copilot Service admin center to manage channels, view enabled communication options, and update user attributes such as skills, queues, and capacity profiles.
+  duration: 20 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+---
+
 # Lab 1 - Set up your environment 
 
 **Duration:** 20 mins
