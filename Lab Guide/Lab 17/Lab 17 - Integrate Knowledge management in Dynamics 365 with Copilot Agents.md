@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 17 - Integrate Knowledge management in Dynamics 365 with Copilot Agents
+  description: In this task, you will integrate the Search Dynamics 365 Knowledge Article flow to the topic and configure the input/output variables.
+  duration: 88 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+---
+
 # Lab 17 - Integrate Knowledge management in Dynamics 365 with Copilot Agents 
 
 **Introduction:**
