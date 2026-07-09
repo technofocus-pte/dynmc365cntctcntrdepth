@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 7 - Configure Assignment methods and rules for queues
+  description: In this lab, you will learn how to configure work assignment and prioritization rules in the Copilot Service admin center. These rules help automate how cases are prioritized and assigned to agents based on defined business logic, sucsh as issue priority, user skills, presence status, and working schedules. By creating these rules, you can ensure that work items are distributed efficiently and fairly among available agents.
+  duration: 80 minutes
+  level: 100
+  islab: true
+---
+
 # Lab 7 - Configure Assignment methods and rules for queues 
 
 ## Introduction:
