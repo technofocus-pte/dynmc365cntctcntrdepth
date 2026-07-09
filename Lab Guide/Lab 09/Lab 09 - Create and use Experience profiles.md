@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 9 - Create and use Experience profiles
+  description: In this task, you will create a new Experience Profile in the Copilot Service Admin Center. This profile will define the settings and characteristics of agents who will use the Copilot system.
+  duration: 68 minutes
+  level: 100
+  islab: true
+---
+
 # Lab 9 - Create and use Experience profiles
 
 **Introduction**
