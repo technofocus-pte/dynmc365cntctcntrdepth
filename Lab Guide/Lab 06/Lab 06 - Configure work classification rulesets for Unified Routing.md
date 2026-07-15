@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 6 - Configure work classification rulesets for Unified Routing
+  description: In this lab, you will learn how to configure work classification and routing rules in the Copilot Service admin center. These rules help automate how customer issues are categorized and routed to the appropriate queues based on predefined conditions, such as customer type or service level. You will create a work classification ruleset and a route-to-queue ruleset to streamline case management within the contact center.
+  duration: 20 minutes
+  level: 100
+  islab: true
+---
+
 # Lab 6 - Configure work classification rulesets for Unified Routing 
 
 **Duration:** 20 mins

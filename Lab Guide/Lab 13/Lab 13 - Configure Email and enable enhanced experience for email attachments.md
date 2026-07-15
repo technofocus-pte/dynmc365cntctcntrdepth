@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 13 - Configure Email and enable enhanced experience for email attachments
+  description: In this lab, you will explore how to configure email settings and attachment controls in Power Apps and Copilot Service Admin Center. These configurations improve the agent experience by enabling enhanced email functionality, managing attachment limits, and customizing email forms to support multitasking within the timeline view.
+  duration: 92 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Power Apps
+---
+
 # Lab 13 - Configure Email and enable enhanced experience for email attachments 
 
 ## Introduction

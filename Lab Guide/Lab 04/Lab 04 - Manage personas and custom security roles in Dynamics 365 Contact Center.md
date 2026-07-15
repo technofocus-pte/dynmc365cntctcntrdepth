@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 4 - Manage personas and custom security roles in Dynamics 365 Contact Center
+  description: In this task, you will navigate to the Role Persona Mapping section, view available personas, and explore how to add or remove security roles. Although no changes will be made in this lab, this task demonstrates the process for managing persona-based security roles.
+  duration: 10 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+---
+
 # Lab 4 - Manage personas and custom security roles in Dynamics 365 Contact Center
 
 **Duration:** 10 mins

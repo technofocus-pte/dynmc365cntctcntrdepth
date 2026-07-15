@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 18 - Add a Knowledge article rich text editor control to a form
+  description: In this lab, you will configure the Rich Text Editor Control in the Email table of Power Apps. This setup allows the email body to leverage a custom configuration that can include knowledge article integration or specific formatting.
+  duration: 34 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Power Apps
+---
+
 # Lab 18 - Add a Knowledge article rich text editor control to a form 
 
 **Introduction:**

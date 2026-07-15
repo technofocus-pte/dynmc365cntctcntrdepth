@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 14 - Configure the Inbox setting for representatives
+  description: In this task, you will navigate to the Contoso Agent Experience Profile in the Copilot Service Admin Center and verify if the Inbox feature is enabled. You will also explore available configuration options for record types and visibility.
+  duration: 44 minutes
+  level: 100
+  islab: true
+---
+
 # Lab 14 - Configure the Inbox setting for representatives 
 
 **Introduction:**

@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 24 – Create a Case and view AI-suggested similar Cases and Knowledge articles
+  description: Sometimes cases are created separately but need to be linked later. In this task, you will manually associate cases as parent and child to show how agents organize related case activity.
+  duration: 88 minutes
+  level: 100
+  islab: true
+---
+
 # Lab 24 – Create a Case and view AI-suggested similar Cases and Knowledge articles 
 
 ### Introduction

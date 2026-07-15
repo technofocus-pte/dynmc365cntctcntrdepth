@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 26 - Configure the enhanced insert email template selection dialog
+  description: In this lab, you successfully configured the New Insert Template Dialog in Power Apps using a solution. By enabling the setting at the environment level, you ensured that the enhanced template insertion experience is available across all apps in the environment. Additionally, the lab highlights the flexibility to selectively disable the dialog for specific model-driven apps, providing administrators with granular control over user experience and ensuring consistency in template management across the organization.
+  duration: 48 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Power Apps
+---
+
 # Lab 26 - Configure the enhanced insert email template selection dialog
 
 **Introduction:**

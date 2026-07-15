@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 21 - Configure rules-based suggestions for contacts in Microsoft Teams​
+  description: In this lab, you successfully configured rules-based suggested contacts for Microsoft Teams chat in Copilot Service. By enabling, reordering, disabling, deleting, and creating new rules, you have full control over which contacts are suggested to agents for a specific record type, such as Case. This configuration ensures agents have access to the most relevant contacts based on business relationships and organizational rules, improving efficiency and accuracy in customer engagement.
+  duration: 46 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Microsoft Teams
+---
+
 # Lab 21 - Configure rules-based suggestions for contacts in Microsoft Teams​
 
 ### Introduction

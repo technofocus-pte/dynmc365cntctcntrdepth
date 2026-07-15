@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 12 - Configure Workforce Management and Shift-based Routing
+  description: In this lab, you will install the Workforce Management for Customer Service app from the Power Platform admin center and configure Shift-based routing in the Copilot Service admin center to optimize agent availability and workload distribution.
+  duration: 10 minutes
+  level: 100
+  islab: true
+---
+
 # Lab 12 - Configure Workforce Management and Shift-based Routing 
 
 **Introduction:**

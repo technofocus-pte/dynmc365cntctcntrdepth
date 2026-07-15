@@ -1,3 +1,15 @@
+---
+lab:
+  title: Lab 11 - ​ Configuring Application Users, Smart Assist Bots, and Agent Scripts in Copilot Service
+  description: In this lab, you will register a new app in Microsoft Entra ID, configure it as an application user in the Power Platform admin center, and connect it to Copilot Service. You will then associate a smart assist bot with a workstream and create an agent script for chat sessions.
+  duration: 130 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft Entra
+    - Microsoft Entra ID
+---
+
 ## Lab 11 - ​ Configuring Application Users, Smart Assist Bots, and Agent Scripts in Copilot Service
 
 ### Introduction:

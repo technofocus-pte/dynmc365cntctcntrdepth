@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 16 - Set up Knowledge management
+  description: In this lab, you configured Knowledge Management in the Copilot Service Admin Center by enabling additional record types, setting up general knowledge options, defining authoring languages, creating categories, enabling filters, and configuring the portal integration. These settings improve how knowledge is captured, searched, and shared within the organization.
+  duration: 82 minutes
+  level: 100
+  islab: true
+---
+
 # Lab 16 - Set up Knowledge management
 
 ### Introduction

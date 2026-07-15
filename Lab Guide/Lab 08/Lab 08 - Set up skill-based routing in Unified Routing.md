@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 8 - Set up skill-based routing in Unified Routing
+  description: In this lab, you will learn how to create and configure skills, rating models, and skill-based routing in the Copilot Service admin center. Skill-based routing helps ensure that customer requests are automatically assigned to the most qualified agents based on their skills and proficiency levels. You will also learn how to assign newly created skills and rating values to agents.
+  duration: 25 minutes
+  level: 100
+  islab: true
+---
+
 # Lab 8 - Set up skill-based routing in Unified Routing 
 
 **Duration:** 25 mins

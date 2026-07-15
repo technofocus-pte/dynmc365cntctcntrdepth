@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 2 - Manage Copilot features in Dynamics 365 Contact Center
+  description: In this lab, you will learn how to configure and enable Copilot AI features in the Dynamics 365 Contact Center environment. You will use the Power Platform admin center to manage environment settings, enable Bing Search integration, and configure Copilot capabilities such as knowledge base access and AI-powered productivity tools for agents
+  duration: 15 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+---
+
 # Lab 2 - Manage Copilot features in Dynamics 365 Contact Center
 
 **Duration:** 15 mins

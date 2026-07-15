@@ -1,3 +1,15 @@
+---
+lab:
+  title: Lab 19 - Configure Microsoft Teams chat in Dynamics 365 Contact Center
+  description: In this task, you will configure chat disconnection settings to control whether users can disconnect Teams chats from Dynamics 365 records.
+  duration: 68 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+    - Microsoft Teams
+---
+
 # Lab 19 - Configure Microsoft Teams chat in Dynamics 365 Contact Center
 
 **Introduction:**
